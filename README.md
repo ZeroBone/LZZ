@@ -87,3 +87,9 @@ server {
 **This open source version of LZZ url shortener is not maintained anymore.**
 Only security fixes will be commited.
 Feel free to fork this repo.
+# License
+Copyright (c) 2017-2019 Alexander Mayorov. All rights reserved.
+
+This project is licensed under the MIT license.
+If you are using the code in this repository, please leave a copyright notice.
+See the LICENCE file for more details.
