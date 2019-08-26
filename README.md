@@ -41,7 +41,6 @@ server {
 			return 403;
 	}
 
-	# Block web attacks
 	location ~* (roundcube|webdav|smtp|http\:|soap|w00tw00t) {
 			return 403;
 	}
@@ -79,7 +78,6 @@ server {
 			return 403;
 	}
 
-	# Block web attacks
 	location ~* (roundcube|webdav|smtp|http\:|soap|w00tw00t) {
 			return 403;
 	}
